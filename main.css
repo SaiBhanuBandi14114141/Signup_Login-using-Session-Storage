@@ -1,0 +1,40 @@
+body
+{
+    text-align: center;
+    color:aquamarine;
+    background-color: grey;
+    padding: 40px;
+    font-size:20px;
+}
+.welcomebody
+{
+    color: magenta;
+    background-image: url('traklabsimg.jpg');
+    background-repeat: no-repeat;
+    background-size: 1280px 575px;
+}
+
+#container,#login-container
+{
+    color:bisque ;
+    padding: 25px;
+}
+#name-label,#email-label,#password-label
+{
+    padding-right: 15px;
+    
+}
+#name-input,#email-input,#password-input,#lgn-email-input,#lgn-password-input
+{
+    padding: 7px;
+    border-radius: 15px;
+}
+#signin-btn,#login-btn
+{
+    color: white;
+    background-color: green;
+    padding: 14px;
+    border-radius: 12px;
+    font-size: large;
+}
+
